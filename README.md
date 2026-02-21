@@ -12,7 +12,7 @@
 
 Here on my GitHub, you can find my personal projects and study notes.
 
-## 😃 Connect With Me
+### 😃 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/jntnlima/" target="_blank" rel="noopener noreferrer">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -25,6 +25,9 @@ Here on my GitHub, you can find my personal projects and study notes.
   </a>
   <a href="mailto:jlima.dev@gmail.com" target="_blank" rel="noopener noreferrer">
     <img alt="Email" src="https://img.shields.io/badge/email-%ae2525.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://kasbu.bio/jonathanlima" target="_blank" rel="noopener noreferrer">
+    <img alt="Kasbu" src="https://img.shields.io/badge/bento-black?style=for-the-badge&logo=bento&logoColor=blue"/>
   </a>
 </p>
 
