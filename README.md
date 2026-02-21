@@ -1,8 +1,16 @@
 # 👋 Hi there, I am Jonathan Lima!
 
-Software Engineer passionate about well-designed softwares and good practices. I'm always learning/practicing something new!
+👨🏽‍💻 Senior Software Engineer with 8+ years of experience\
+⭐ I love to develop software and understand how stuff works\
+💻 Tech enthusiast - I love to try new tools\
+⚙️ Open Source Contributor\
+💬 Localizing multiple open Source tool/apps to pt-BR\
+💼 Currently contributing to a Fortune 500 company, focusing on:
+- Creating and standardizing processes
+- Building and maintaining critical financing systems that handle millions of dollars in transactions
+- Facilitating inter-team collaboration and effectiveness by integrating and decoupling cross-functional systems via process APIs.
 
-Here in my github you can find my personal projects and my study notes.
+Here on my GitHub, you can find my personal projects and study notes.
 
 ## 😃 Connect With Me
 <p align="center">
@@ -20,20 +28,15 @@ Here in my github you can find my personal projects and my study notes.
   </a>
 </p>
 
+<!--
 ## 💻 Technologies, Tools and Services
   In this section you can find all Technologies, Tools And Services that i'm always learning something or practicing.
   <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=nodejs,ts,js,express,nestjs,jest,aws,jenkins,docker,git,github,mongodb,postgres,mongodb,redis,java,kotlin,spring,react,redux,styledcomponents,html,css,vite,md,bash,vscode,idea&perline=7" />
     </a>
-  </p>  
-
-## 📊 Github Stats
-  <p align="center">
-    <img width="440px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlimadev&layout=compact&theme=material-palenight&hide=Jupyter%20notebook,html,objective-c,ruby" />
   </p>
 
-<!--
 **jlimadev/jlimadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <p align="center">
