@@ -4,7 +4,7 @@
 ⭐ I love to develop software and understand how stuff works\
 💻 Tech enthusiast - I love to try new tools\
 ⚙️ Open Source Contributor\
-💬 Localizing multiple open Source tool/apps to pt-BR\
+💬 Localizing multiple open source tools/apps to pt-BR\
 💼 Currently contributing to a Fortune 500 company, focusing on:
 - Creating and standardizing processes
 - Building and maintaining critical financing systems that handle millions of dollars in transactions
