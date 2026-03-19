@@ -27,7 +27,7 @@ Here on my GitHub, you can find my personal projects and study notes.
     <img alt="Email" src="https://img.shields.io/badge/email-%ae2525.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://kasbu.bio/jonathanlima" target="_blank" rel="noopener noreferrer">
-    <img alt="Kasbu" src="https://img.shields.io/badge/bento-black?style=for-the-badge&logo=bento&logoColor=blue"/>
+    <img alt="Kasbu" src="https://img.shields.io/badge/kasbu-black?style=for-the-badge&logo=bento&logoColor=white"/>
   </a>
 </p>
 
