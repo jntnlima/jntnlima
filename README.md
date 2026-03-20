@@ -23,7 +23,7 @@ Here on my GitHub, you can find my personal projects and study notes.
   <a href="https://stackoverflow.com/users/13879410/jntnlima" target="_blank" rel="noopener noreferrer">
     <img alt="Stackoverflow" src="https://img.shields.io/badge/stackoverflow-white?style=for-the-badge&logo=stackoverflow&logoColor=orange"/>
   </a>
-  <a href="mailto:jlima.dev@gmail.com" target="_blank" rel="noopener noreferrer">
+  <a href="mailto:dev-github@mail.jntnlima.com" target="_blank" rel="noopener noreferrer">
     <img alt="Email" src="https://img.shields.io/badge/email-%ae2525.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://kasbu.bio/jonathanlima" target="_blank" rel="noopener noreferrer">
